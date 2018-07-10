@@ -1,0 +1,69 @@
+[?25l[0K[2G[?25h[?25l:[0K[?25h[?25lfilter.lfs.process=git-lfs filter-process[0K
+filter.lfs.required=true[0K
+pack.packsizelimit=2g[0K
+user.name=chrls28[0K
+user.email=cdyf.28@gmail.com[0K
+[0;30;47m(END)[0m[0K[?25h[?25l[0;30;47mCannot edit standard input  (press RETURN)[0m[0K[?25h[?25l[0;30;47m(END)[0m[0K[?25h[?25llog file:[0K[11G[?25h[?25llog file: d[0K[?25h[?25l[0;30;47mLog file is already in use  (press RETURN)[0m[0K[?25h[?25llog file:[0K[11G[?25h[?25llog file: as[0K[?25h[?25l[0;30;47mLog file is already in use  (press RETURN)[0m[0K[?25h[?25lgoto mark:[0K[12G[?25h[?25l[0;30;47mMark not set  (press RETURN)[0m[0K[?25h[?25l[0;30;47m(END)[0m[0K[?25h[?25llog file:[0K[11G[?25h[?25llog file: f[0K[?25h[?25l[0;30;47mLog file is already in use  (press RETURN)[0m[0K[?25h[?25l[0;30;47m(END)[0m[0K[?25h[?25l
+help.format=html[0K
+rebase.autosquash=true[0K
+http.sslcainfo=C:/Program Files/Git/mingw32/ss[0Kl
+/certs/ca-bundle.crt[0K
+http.sslbackend=openssl[0K
+diff.astextplain.textconv=astextplain[0K
+filter.lfs.clean=git-lfs clean -- %f[0K
+filter.lfs.smudge=git-lfs smudge -- %f[0K
+filter.lfs.process=git-lfs filter-process[0K
+filter.lfs.required=true[0K
+pack.packsizelimit=2g[0K
+user.name=chrls28[0K
+user.email=cdyf.28@gmail.com[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;1m~[0m[0K
+[0;30;47m(END)[0m[0K[?25h[?25l:4[0K[?25h[?25l[0;30;47m(END)[0m[0K[?25h[?25l
+help.format=html[0K
+rebase.autosquash=true[0K
+http.sslcainfo=C:/Program Files/Git/mingw32/ss[0Kl
+/certs/ca-bundle.crt[0K
+http.sslbackend=openssl[0K
+diff.astextplain.textconv=astextplain[0K
+filter.lfs.clean=git-lfs clean -- %f[0K
+filter.lfs.smudge=git-lfs smudge -- %f[0K
+filter.lfs.process=git-lfs filter-process[0K
+filter.lfs.required=true[0K
+pack.packsizelimit=2g[0K
+user.name=chrls28[0K
+user.email=cdyf.28@gmail.com[0K
+[0;30;47m(END)[0m[0K[?25h[?25l[0K[?25h[?25l[13Acore.symlinks=false[0K
+core.autocrlf=true[0K
+core.fscache=true[0K
+color.diff=auto[0K
+color.status=auto[0K
+color.branch=auto[0K
+color.interactive=true[0K
+help.format=html[0K
+rebase.autosquash=true[0K
+http.sslcainfo=C:/Program Files/Git/mingw32/ss[0Kl
+/certs/ca-bundle.crt[0K
+http.sslbackend=openssl[0K
+diff.astextplain.textconv=astextplain[0K
+:[0K[?25h[?25l[0;30;47mNo next tag  (press RETURN)[0m[0K[?25h[?25l:[0K[?25h[?25l[0;30;47mNo next tag  (press RETURN)[0m[0K[?25h[?25l:[0K[?25h[?25l[0;30;47mNo next tag  (press RETURN)[0m[0K[?25h[?25l:[0K[?25h[?25l[0K[?25h:[0K[?25l[0;30;47mNo next tag  (press RETURN)[0m[0K[?25h[?25l:[0K[?25h[?25l[0K[?25h:[0K[?25l[0K[?25h:[0K
